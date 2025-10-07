@@ -27,62 +27,39 @@
 ### 💻 My Tech Stack & Tools
 
 <p align="center">
-  <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
-
-  <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
-
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-
-  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-
-  <!-- Node.js badge -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
-
-  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-
-  <!-- Flutter -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
-
-  <!-- Android Studio -->
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/>
   </a>
-
-  <!-- Blender with dark background -->
-  <div style="display:inline-block; width:40px; height:40px; background-color:#1E1E1E; border-radius:50%; padding:5px; margin:0 2px;">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/>
-  </div>
-
-  <!-- Unity -->
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   </a>
-
-  <!-- Unreal Engine with dark background -->
-  <div style="display:inline-block; width:40px; height:40px; background-color:#1E1E1E; border-radius:50%; padding:5px; margin:0 2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="unrealengine" width="30" height="30"/>
-  </div>
-
-  <!-- Git -->
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="unrealengine" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -103,6 +80,8 @@ I’m currently focused on two exciting areas:
 ---
 
 ### 📂 My Projects
+
+Here are a few projects I've built:
 
 #### 1. YouTube & TikTok Media Downloader
 -   A tool to crack YouTube's security and download videos, audio, thumbnails, and profile pictures.
