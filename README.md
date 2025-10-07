@@ -18,6 +18,7 @@
   I'm deeply interested in the entire development lifecycle, from conceptualizing an idea to bringing it to life. My curiosity drives me to constantly explore new technologies and push the boundaries of what I can create.
 </p>
 
+- 🏆 As a grade 11 student, I proudly **won a local hackathon competition** here in Biratnagar.
 - 👀 I’m passionate about: **Coding, Web/App Development, Game Development, and 3D Art.**
 - 💞️ I’m looking to collaborate on innovative projects related to games, software, and creative tech.
 - ⚡ Fun fact: I love staying on the bleeding edge of technology and implementing new tools as soon as I discover them!
