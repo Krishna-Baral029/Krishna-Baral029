@@ -7,7 +7,7 @@
   <br/>
   <br/>
   <strong>📍 From:</strong> Shree Pokhariya Secondary School <br/>
-  <strong>📚 Studying:</strong> Class 11 Tech (Batch of 2025)
+  <strong>📚 Studying:</strong> Class 12 Tech (Batch of 2026)
 </p>
 
 ---
@@ -18,7 +18,7 @@
   I'm deeply interested in the entire development lifecycle, from conceptualizing an idea to bringing it to life. My curiosity drives me to constantly explore new technologies and push the boundaries of what I can create.
 </p>
 
-- 🏆 In 2025 (B.S. 2082), my team, **Team-Alpha**, achieved a significant victory by winning the DayDream Biratnagar hackathon competition. We successfully surpassed more than 200 competing students to win the competition.
+- 🏆 In 2026 (B.S. 2082), my team, **Team-Alpha**, achieved a significant victory by winning the DayDream Biratnagar hackathon competition. We successfully surpassed more than 200 competing students to win the competition.
 - 👀 I’m passionate about: **Coding, Web/App Development, Game Development, and 3D Art.**
 - 💞️ I’m looking to collaborate on innovative projects related to games, software, and creative tech.
 - ⚡ Fun fact: I love staying on the bleeding edge of technology and implementing new tools as soon as I discover them!
@@ -74,9 +74,9 @@ I’m currently focused on two exciting areas:
 1.  Animating a 3D model from scratch using **Blender**.
 2.  Developing my first major game title: **"COV" [Crime Over Virtue]**.
 
-📢 **The game's first trailer is scheduled to release on December 15, 2025!**
+📢 **The game's first trailer is scheduled to release on December 15, 2026!**
 <br>
-![COV Trailer Release](https://img.shields.io/badge/Release_Date-December_15,_2025-blueviolet?style=for-the-badge)
+![COV Trailer Release](https://img.shields.io/badge/Release_Date-December_15,_2026-blueviolet?style=for-the-badge)
 
 ---
 
